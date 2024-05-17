@@ -1,0 +1,63 @@
+create database NadraDb
+use NadraDb
+
+ 
+create table cnic_info_tbl(
+cnic_id int primary key identity (1,1),
+cnic_no nvarchar(255)not null,
+issue_day varchar(255) not null,
+issue_year varchar(255) not null,
+issue_month varchar(255) not null,
+expiry_year varchar(255) not null,
+expiry_month varchar(255) not null,
+expiry_date varchar(255) not null
+)
+
+
+create table citizen_tbl(
+Citizen_id int primary key identity (1,1),
+F_name varchar(255) not null,
+curent_postal_code int not null,
+Email nvarchar(255)  not null unique,
+perm_house_no varchar(255) not null,
+year varchar(255)  not null,
+month varchar(255) not null,
+date varchar(255) not null,
+phone_no varchar(255) not null,
+Cnic_Id int foreign key references cnic_info_tbl(cnic_id)on delete cascade ON UPDATE CASCADE)
+
+create table invoice_tbl(
+invoice_id int CONSTRAINT PK_invo_id primary key identity (1,1),
+invoice_no bigint not null
+)
+create table account_tbl(
+account_id int CONSTRAINT PK_Acc_id primary key identity (1,1),
+accound_No nvarchar(255) not null,
+invoice_id int foreign key references invoice_tbl(invoice_id)on delete cascade ON UPDATE CASCADE,
+)
+create table payment_tbl(
+Payment_id int CONSTRAINT PK_pay_id primary key identity (1,1),
+charges decimal(18,2) not null,
+payment_type varchar(255) not null,
+Account_id int foreign key references account_tbl(account_id)on delete cascade ON UPDATE CASCADE,
+cnic_id int foreign key references cnic_info_tbl(cnic_id)on delete cascade ON UPDATE CASCADE)
+
+
+
+create table staff_tbl(
+staff_id int primary key identity (1,1),
+designation varchar(255) not null,
+contact_staff varchar(255) not null,
+cnic_id int foreign key references cnic_info_tbl(cnic_id)
+)
+
+create table login_tbl
+(
+login_id int CONSTRAINT PK_stf_id primary key identity (1,1),
+login_email nvarchar(255) not null,
+login_password nvarchar(255) not null,
+staff_id int foreign key references staff_tbl(staff_id)
+)
+
+
+--alter table payment_tbl add constraint FK_c_Id  foreign key (cnic_id) references cnic_info_tbl (cnic_id)

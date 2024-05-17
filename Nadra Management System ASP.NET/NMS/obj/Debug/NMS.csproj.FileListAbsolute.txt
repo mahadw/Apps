@@ -1,0 +1,206 @@
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\ApplicationInsights.config
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\roslyn\csc.exe
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\roslyn\vbc.exe
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\NMS.dll.config
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\NMS.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\NMS.pdb
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\EntityFramework.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\EntityFramework.SqlServer.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\Microsoft.AI.Web.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\System.Web.Helpers.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\System.Web.Mvc.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\System.Web.Razor.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\System.Web.Webpages.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\System.Web.Webpages.Razor.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\EntityFramework.xml
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\EntityFramework.SqlServer.xml
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\Microsoft.AI.Web.xml
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\System.Web.Razor.xml
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\System.Web.Webpages.xml
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\System.Web.Webpages.Razor.xml
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\System.Web.Helpers.xml
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\bin\System.Web.Mvc.xml
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\obj\Debug\NMS.csprojResolveAssemblyReference.cache
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\obj\Debug\NMS.dll
+C:\Users\hassa\OneDrive\Desktop\dbms\NMS\NMS\obj\Debug\NMS.pdb
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\ApplicationInsights.config
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\roslyn\csc.exe
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\roslyn\vbc.exe
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\NMS.dll.config
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\NMS.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\NMS.pdb
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\EntityFramework.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\EntityFramework.SqlServer.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\Microsoft.AI.Web.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\System.Web.Helpers.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\System.Web.Mvc.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\System.Web.Razor.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\System.Web.Webpages.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\System.Web.Webpages.Razor.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\EntityFramework.xml
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\EntityFramework.SqlServer.xml
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\Microsoft.AI.Web.xml
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\System.Web.Razor.xml
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\System.Web.Webpages.xml
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\System.Web.Webpages.Razor.xml
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\System.Web.Helpers.xml
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\bin\System.Web.Mvc.xml
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\obj\Debug\NMS.csprojAssemblyReference.cache
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\obj\Debug\NMS.csproj.CoreCompileInputs.cache
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\obj\Debug\NMS.csproj.CopyComplete
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\obj\Debug\NMS.dll
+C:\Users\Hassan Noor Soomro\OneDrive\Desktop\New folder\DP\project\NMS\NMS\obj\Debug\NMS.pdb
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\ApplicationInsights.config
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\roslyn\csc.exe
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\roslyn\vbc.exe
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\NMS.dll.config
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\NMS.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\NMS.pdb
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\EntityFramework.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\EntityFramework.SqlServer.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\Microsoft.AI.Web.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\System.Web.Helpers.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\System.Web.Mvc.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\System.Web.Razor.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\System.Web.Webpages.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\System.Web.Webpages.Razor.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\EntityFramework.xml
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\EntityFramework.SqlServer.xml
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\Microsoft.AI.Web.xml
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\System.Web.Razor.xml
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\System.Web.Webpages.xml
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\System.Web.Webpages.Razor.xml
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\System.Web.Helpers.xml
+C:\Users\M.Bilal\Downloads\NMs\NMS\bin\System.Web.Mvc.xml
+C:\Users\M.Bilal\Downloads\NMs\NMS\obj\Debug\NMS.csproj.AssemblyReference.cache
+C:\Users\M.Bilal\Downloads\NMs\NMS\obj\Debug\NMS.csproj.CoreCompileInputs.cache
+C:\Users\M.Bilal\Downloads\NMs\NMS\obj\Debug\NMS.csproj.CopyComplete
+C:\Users\M.Bilal\Downloads\NMs\NMS\obj\Debug\NMS.dll
+C:\Users\M.Bilal\Downloads\NMs\NMS\obj\Debug\NMS.pdb
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\ApplicationInsights.config
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\roslyn\csc.exe
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\roslyn\vbc.exe
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\NMS.dll.config
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\NMS.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\NMS.pdb
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\EntityFramework.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\EntityFramework.SqlServer.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\Microsoft.AI.Web.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\System.Web.Helpers.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\System.Web.Mvc.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\System.Web.Razor.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\System.Web.Webpages.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\System.Web.Webpages.Razor.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\EntityFramework.xml
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\EntityFramework.SqlServer.xml
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\Microsoft.AI.Web.xml
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\System.Web.Razor.xml
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\System.Web.Webpages.xml
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\System.Web.Webpages.Razor.xml
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\System.Web.Helpers.xml
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\bin\System.Web.Mvc.xml
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\obj\Debug\NMS.csproj.AssemblyReference.cache
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\obj\Debug\NMS.csproj.CoreCompileInputs.cache
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\obj\Debug\NMS.csproj.CopyComplete
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\obj\Debug\NMS.dll
+C:\Users\M.Bilal\Desktop\NMs_DP\NMS\obj\Debug\NMS.pdb
